@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Coutinho Construction | Goa</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { margin:0; font-family: Arial; }
+    header, footer { background:#1f2937; color:white; padding:30px; text-align:center; }
+    section { padding:40px; text-align:center; }
+    .services { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:20px; }
+    .box { background:#f3f4f6; padding:20px; border-radius:8px; }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Coutinho Construction</h1>
+  <p>Premium Construction & Interior Design | Goa</p>
+  <p>📞 9822103006</p>
+</header>
+
+<section>
+  <h2>About Us</h2>
+  <p>
+    We provide residential, commercial, hotel construction and interior
+    designing services across Goa with quality workmanship.
+  </p>
+</section>
+
+<section>
+  <h2>Our Services</h2>
+  <div class="services">
+    <div class="box">Residential & Commercial Construction</div>
+    <div class="box">Interior Design & False Ceiling</div>
+    <div class="box">Hotel & Resort Projects</div>
+    <div class="box">Renovation & Remodeling</div>
+  </div>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>Panaji, Goa</p>
+  <p>📞 9822103006</p>
+</section>
+
+<footer>
+  © 2026 Coutinho Construction
+</footer>
+
+</body>
+</html>
